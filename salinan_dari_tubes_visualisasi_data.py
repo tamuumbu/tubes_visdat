@@ -9,6 +9,7 @@ Original file is located at
 
 # Commented out IPython magic to ensure Python compatibility.
 # %matplotlib inline
+pip install matplotlib
 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
