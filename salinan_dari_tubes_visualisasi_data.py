@@ -7,9 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1e5EdKyCTIlgbG7NlJA5WTVVKrYcQSW1s
 """
 
+pip install matplotlib
+
 # Commented out IPython magic to ensure Python compatibility.
 # %matplotlib inline
-pip install matplotlib
 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
